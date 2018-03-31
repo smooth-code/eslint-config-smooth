@@ -1,6 +1,7 @@
 {
   "name": "eslint-config-smooth",
   "description": "Smooth Code's ESLint config",
+  "keywords": ["eslint", "eslint-config", "eslint-config-airbnb"],
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
