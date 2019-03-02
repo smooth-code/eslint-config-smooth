@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/smooth-code/eslint-config-smooth/compare/v1.1.1...v2.0.0) (2019-03-02)
+
+
+### Features
+
+* add react hooks & adjust rules ([a97ae9b](https://github.com/smooth-code/eslint-config-smooth/commit/a97ae9b))
+
+
+### BREAKING CHANGES
+
+* eslint-plugin-react-hooks is required
+
+
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/smooth-code/eslint-config-smooth/compare/v1.1.0...v1.1.1) (2018-03-31)
 
