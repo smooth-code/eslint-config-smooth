@@ -24,6 +24,7 @@ module.exports = {
         ignore: [],
       },
     ],
+    'react/jsx-props-no-spreading': 'off',
     'react/jsx-uses-react': 'warn',
     'react/jsx-uses-vars': 'warn',
     'react/no-danger-with-children': 'warn',
