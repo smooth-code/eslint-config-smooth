@@ -34,6 +34,7 @@ module.exports = {
     'react/no-typos': 'error',
     'react/react-in-jsx-scope': 'error',
     'react/require-render-return': 'error',
+    'react/state-in-constructor': 'off',
     'react/style-prop-object': 'warn',
 
     'react-hooks/rules-of-hooks': 'error',
