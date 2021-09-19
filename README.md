@@ -8,6 +8,8 @@
 [npm-image]: https://img.shields.io/npm/v/eslint-config-smooth.svg
 [npm-url]: https://npmjs.org/package/eslint-config-smooth
 
+> This package is deprecated, use [eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app) instead.
+
 ## Install
 
 ```bash
